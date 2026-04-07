@@ -1,7 +1,15 @@
 aid: albemarle
-url: https://raw.githubusercontent.com/api-evangelist/albemarle/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/albemarle/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.albemarle.com
+description: >-
+  Including our global headquarters in Charlotte, NC, our U.S. sites help provide
+  a secure supply of essential elements to customers around the world. Throughout
+  the U.S., Albemarle operates world-class hard-rock and brine lithium resources,
+  a state-of-the-art lithium conversion facility, advanced lithium material and process
+  development, bromine production facilities and the U.S.'s only producing lithium
+  resource in Silver Peak, NV.​.
