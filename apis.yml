@@ -10,8 +10,12 @@ position: Consuming
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/albemarle-domain-security.yml
   - type: Website
     url: https://www.albemarle.com
+  - type: Blog
+    url: https://www.albemarle.com/news
   - type: Portal
     url: https://www.albemarle.com/us/en/what-we-offer
   - type: LinkedIn
