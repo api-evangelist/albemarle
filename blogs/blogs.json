@@ -17,12 +17,12 @@
     },
     {
       "source": "https://www.albemarle.com",
-      "feed_url": "https://www.albemarle.com/rss.xml",
+      "feed_url": "https://www.albemarle.com",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-01T15:49:00Z",
+  "fetched": "2026-08-06T14:08:46Z",
   "post_count": 4
 }
