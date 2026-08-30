@@ -27,23 +27,25 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/albemarle.png
 access: 3rd-Party
 created: '2026-03-23'
-modified: '2026-04-19'
+modified: '2026-08-30'
 position: Consuming
 specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
     url: security/albemarle-domain-security.yml
+  - type: LLMsTxt
+    url: llms/albemarle-llms.txt
   - type: Website
     url: https://www.albemarle.com
   - type: Blog
     url: https://www.albemarle.com/news
-  - type: Portal
+  - type: Products
     url: https://www.albemarle.com/us/en/what-we-offer
   - type: LinkedIn
-    url: https://www.linkedin.com/company/albemarle-corporation
+    url: https://www.linkedin.com/company/albemarlecorp
   - type: TermsOfService
-    url: https://www.albemarle.com/us/en/legal
+    url: https://www.albemarle.com/us/en/terms-use
   - type: PrivacyPolicy
     url: https://www.albemarle.com/us/en/privacy-policy
   - type: Contact
@@ -117,3 +119,30 @@ tags:
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
+
+x-enrichment:
+  date: '2026-08-30'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1
+x-coverage:
+  state: none
+  reason: not-a-software-company
+  detail: >-
+    Albemarle is a lithium and bromine specialty-chemicals manufacturer selling physical
+    product under negotiated supply agreements, and it operates no developer surface at
+    all: api.albemarle.com resolves to an unconfigured vhost serving "Web Site Not Found",
+    developer.albemarle.com and developers.albemarle.com both 404, and the Drupal
+    corporate site returns its standard 404 page for /openapi.json, /swagger.json and
+    /api-docs. The one machine-readable document Albemarle does publish is an llms.txt
+    at the site root, which is agent context about the company, not an API contract.
+  evidence:
+  - url: https://api.albemarle.com/
+    status: 404
+  - url: https://developer.albemarle.com/
+    status: 404
+  - url: https://www.albemarle.com/openapi.json
+    status: 404
+  - url: https://www.albemarle.com/llms.txt
+    status: 200
+  checked: '2026-08-30'

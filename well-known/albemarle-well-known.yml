@@ -1,0 +1,42 @@
+generated: '2026-08-30'
+method: probed
+source: live probes of Albemarle hosts, 2026-08-30
+note: >-
+  Probed the standard /.well-known/ discovery surface on every Albemarle host named in
+  apis.yml plus the investor-relations host. Nothing was found. Two distinct failure
+  modes are recorded, and they are NOT the same fact. On www.albemarle.com every
+  /.well-known/* path is answered by a Cloudflare WAF interstitial ("Sorry, you have
+  been blocked", HTTP 403) rather than by the origin — a browser User-Agent was used
+  and the block persisted, so this is a rule on the /.well-known/ path prefix and is
+  NOT evidence that the documents are absent; the origin was never reached. On
+  investors.albemarle.com (Q4 Inc. platform) every /.well-known/* path returns HTTP 200
+  with an 11-byte text/html body reading "Invalid key" — a platform catch-all, not a
+  document, and it is treated here as a miss. NO WellKnown and NO SecurityTxt pointer
+  is emitted: not one path returned a real document.
+hosts:
+- host: https://www.albemarle.com
+  documents:
+  - {path: /.well-known/security.txt, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/openid-configuration, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/oauth-authorization-server, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/api-catalog, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/ai-plugin.json, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/agent-card.json, status: 403, note: Cloudflare WAF block page, origin not reached}
+  - {path: /.well-known/agent.json, status: 403, note: Cloudflare WAF block page, origin not reached}
+- host: https://albemarle.com
+  documents:
+  - {path: /.well-known/security.txt, status: 403, note: Cloudflare WAF block page, origin not reached}
+- host: https://investors.albemarle.com
+  documents:
+  - {path: /.well-known/security.txt, status: 200, note: soft-200 catch-all, 11-byte body "Invalid key", not a document}
+  - {path: /.well-known/agent-card.json, status: 200, note: soft-200 catch-all, 11-byte body "Invalid key", not a document}
+other_probes:
+- {url: 'https://www.albemarle.com/llms.txt', status: 200, note: real provider-authored llms.txt, saved verbatim to llms/albemarle-llms.txt}
+- {url: 'https://www.albemarle.com/robots.txt', status: 200, note: stock Drupal robots.txt, no API or docs paths disallowed}
+- {url: 'https://www.albemarle.com/openapi.json', status: 404}
+- {url: 'https://www.albemarle.com/swagger.json', status: 404}
+- {url: 'https://www.albemarle.com/api-docs', status: 404}
+- {url: 'https://api.albemarle.com/', status: 404, note: 'unconfigured vhost, body reads "Web Site Not Found"'}
+- {url: 'https://developer.albemarle.com/', status: 404}
+- {url: 'https://developers.albemarle.com/', status: 404}
+- {url: 'https://investors.albemarle.com/llms.txt', status: 404}

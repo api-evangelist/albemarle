@@ -1,0 +1,94 @@
+<!-- generated: 2026-08-30 -->
+<!-- method: searched -->
+<!-- source: https://www.albemarle.com/llms.txt -->
+# Albemarle Corporation
+
+> Albemarle Corporation (NYSE: ALB) is a global leader in the development, manufacturing, and marketing of lithium and bromine-based specialty chemicals. Headquartered in Charlotte, North Carolina, the company transforms essential resources into critical ingredients for mobility, energy, connectivity, and health. Albemarle operates approximately 23 locations worldwide, employs roughly 7,800 people, holds over 1,500 active patents, and serves customers in approximately 70 countries.
+
+Albemarle's two core business segments are Energy Storage (lithium compounds for EV batteries, grid storage, consumer electronics, and specialty glass) and Specialties (bromine-based flame retardants, fire safety compounds, pharmaceutical precursors, water treatment chemicals, and specialty lithium solutions). As of early 2026, the company has divested a majority stake in its former Ketjen catalyst business.
+
+Albemarle extracts lithium from brine operations in Chile and Nevada and hard-rock spodumene in Australia, then converts these into lithium carbonate, lithium hydroxide, and lithium chloride. In bromine, the company holds a leading global market position alongside ICL Group, sourcing from operations in Arkansas and Jordan.
+
+Key industries served include automotive and EV, grid-scale energy storage, aviation and aerospace, electrical and electronics, construction, pharmaceutical and nutrition, oil and gas, and water treatment.
+
+## About Albemarle
+
+- [Who We Are](https://www.albemarle.com/us/en/who-we-are): Company overview, purpose, impact areas (mobility, energy, connectivity, health), values, culture, and innovation strategy
+- [Leadership](https://www.albemarle.com/us/en/who-we-are/leadership): Executive leadership team and organizational structure
+- [History](https://www.albemarle.com/us/en/who-we-are/history): Company history from 1887 founding as Albemarle Paper Manufacturing Company through Rockwood Holdings acquisition and transformation into an energy and specialty chemicals leader
+- [Values & Culture](https://www.albemarle.com/us/en/who-we-are/values): Core values and workplace culture
+- [Innovation](https://www.albemarle.com/us/en/who-we-are/innovation): R&D focus areas including direct lithium extraction (DLE) technologies, lithium recycling, and next-generation battery materials
+
+## Products & Solutions
+
+- [What We Offer Overview](https://www.albemarle.com/us/en/what-we-offer): Full product and solutions portfolio overview
+- [Solutions](https://www.albemarle.com/us/en/what-we-offer/solutions): Application-specific chemical solutions across end markets
+- [Featured Products](https://www.albemarle.com/us/en/what-we-offer/featured-products): Highlighted product offerings
+- [Product Search](https://www.albemarle.com/us/en/search?ct=products): Searchable catalog of Albemarle products
+- [Industries Served](https://www.albemarle.com/us/en/what-we-offer/industries): Industry-specific pages for automotive/EV, grid storage, aviation/aerospace, electrical/electronics, pharmaceutical/nutrition, and more
+
+## Supply Chain & Resources
+
+- [Reliable Supply](https://www.albemarle.com/us/en/what-we-offer/reliable-supply): Overview of Albemarle's global supply reliability and vertical integration
+- [Lithium Resources & Processing](https://www.albemarle.com/us/en/what-we-offer/reliable-supply/lithium-resources-processing): Details on lithium brine and hard-rock extraction, conversion processes, and global lithium operations
+- [Bromine Resources & Processing](https://www.albemarle.com/us/en/what-we-offer/reliable-supply/bromine-resources-processing): Bromine sourcing from Arkansas and Jordan, processing, and product applications
+- [Safety](https://www.albemarle.com/us/en/what-we-offer/reliable-supply/safety): Operational safety practices and standards
+
+## Impact Areas
+
+- [Mobility](https://www.albemarle.com/us/en/who-we-are/mobility): Role in advancing EV batteries, airbag initiators, and aerospace applications
+- [Energy](https://www.albemarle.com/us/en/who-we-are/energy): Grid-scale energy storage systems and data center power solutions
+- [Connectivity](https://www.albemarle.com/us/en/who-we-are/connectivity): Fire safety compounds for electronics, wires, cables, and protective glass
+- [Health](https://www.albemarle.com/us/en/who-we-are/health): Pharmaceutical precursors, disinfectants, food safety, and water treatment chemicals
+
+## Investors
+
+- [Investor Overview](https://investors.albemarle.com/overview/default.aspx): Investor relations hub with stock information, events, and presentations
+- [Quarterly Results](https://investors.albemarle.com/financials/quarterly-results/default.aspx): Earnings releases and quarterly financial results
+- [Annual Reports](https://investors.albemarle.com/financials/annual-reports/default.aspx): Full annual reports and 10-K filings
+- [SEC Filings](https://investors.albemarle.com/financials/sec-filings/default.aspx): All SEC filings including 10-K, 10-Q, 8-K, and proxy statements
+- [Stock Info](https://investors.albemarle.com/resources/stock-info/default.aspx): NYSE: ALB stock price, historical data, and performance
+- [Dividend History](https://investors.albemarle.com/resources/dividend-history/default.aspx): Dividend payment history and policy
+- [Board of Directors](https://investors.albemarle.com/governance/board-of-directors/default.aspx): Board composition and director biographies
+- [Corporate Governance](https://investors.albemarle.com/governance/corporate-governance/governance-documents/default.aspx): Governance documents, charters, and policies
+
+## Global Locations
+
+- [Location Directory](https://www.albemarle.com/us/en/who-we-are/global-locations): Full directory of global operations including production, R&D, offices, and resource sites
+- [United States](https://www.albemarle.com/us/en/global-locations/united-states): U.S. operations including Charlotte HQ, Kings Mountain NC, Magnolia AR, and Silver Peak NV
+- [Australia](https://www.albemarle.com/us/en/global-locations/australia): Kemerton lithium hydroxide conversion and Greenbushes hard-rock mine (JV)
+- [Chile](https://www.albemarle.com/us/en/global-locations/chile): Salar de Atacama lithium brine operations
+
+## Careers
+
+- [Careers Overview](https://www.albemarle.com/us/en/careers): Career opportunities, workplace culture, and why people work at Albemarle
+- [Career Paths](https://www.albemarle.com/us/en/careers/us-career-paths): Available career tracks and growth opportunities
+- [Benefits & Rewards](https://www.albemarle.com/us/en/careers/us-benefits-rewards): Employee benefits, compensation, and rewards programs
+- [Job Opportunities](https://albemarle.eightfold.ai/careers?location=US): Current open positions in the United States (external job board)
+
+## Newsroom & Media
+
+- [Newsroom](https://www.albemarle.com/us/en/newsroom): Latest company news, stories, and media resources
+- [News & Press Releases](https://www.albemarle.com/us/en/search?ct=news): Searchable archive of press releases and news articles
+- [Latest Stories](https://www.albemarle.com/us/en/newsroom/latest-stories): Featured stories and thought leadership content
+- [Events](https://www.albemarle.com/us/en/search?ct=events): Upcoming and past investor and industry events
+
+## Suppliers, Customers & Ethics
+
+- [Suppliers](https://www.albemarle.com/us/en/suppliers): Information for current and prospective suppliers
+- [Customer Resources](https://www.albemarle.com/us/en/customer-resources): Resources and support for existing customers
+- [Ethics & Compliance](https://www.albemarle.com/us/en/ethics-compliance): Code of conduct, anti-corruption policy, and compliance programs
+- [Integrity Helpline](https://www.albemarle.com/us/en/integrity-helpline): Anonymous reporting channel for ethics and compliance concerns
+- [Contact Us](https://www.albemarle.com/us/en/contact-us-0): General contact information and inquiry form
+
+## Legal
+
+- [Terms of Use](https://www.albemarle.com/us/en/terms-use): Website terms and conditions
+- [Privacy Policy](https://www.albemarle.com/us/en/privacy-policy): Data privacy practices and cookie policy
+
+## Optional
+
+- [Community Impact](https://www.albemarle.com/us/en/who-we-are/community-impact): Philanthropic programs and community investments
+- [Grant Guidelines](https://www.albemarle.com/us/en/who-we-are/community-impact/grant-guidelines): Guidelines for community grant applications
+- [Kings Mountain, NC](https://www.albemarle.com/us/en/kings-mountain): Detail page for the Kings Mountain hard-rock lithium resource and mega-flex facility
+- [Silver Peak, NV](https://www.albemarle.com/us/en/silver-peak): The only actively producing lithium resource in the United States

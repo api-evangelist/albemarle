@@ -1,0 +1,14 @@
+generated: '2026-08-30'
+method: searched
+source: https://www.albemarle.com/us/en/customer-resources
+note: >-
+  No rate limits are documented because Albemarle publishes no API. Contract
+  discovery on 2026-08-30 probed every Albemarle host for an OpenAPI/Swagger
+  document, a GraphQL endpoint, an MCP endpoint and an A2A agent card and found
+  none; api.albemarle.com, developer.albemarle.com and developers.albemarle.com
+  all 404. There is therefore no runtime surface to carry X-RateLimit-*,
+  RateLimit-* or Retry-After headers. Recorded as an honest zero.
+limit_count: 0
+limits: []
+headers: []
+exhaustion_status: null
