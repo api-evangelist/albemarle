@@ -1,7 +1,9 @@
 ---
 title: Press Statement December 11, 2025
 url: https://albemarle-cvillenaacp.org/news/press-statement-december-11-2025/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Albemarle" press release artificial intelligence'
 position: 4
 source: serpapi-google
