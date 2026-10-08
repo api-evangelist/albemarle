@@ -32,6 +32,10 @@ position: Consuming
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Plans
+    url: plans/albemarle-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/albemarle-rate-limits.yml
   - type: DomainSecurity
     url: security/albemarle-domain-security.yml
   - type: LLMsTxt
