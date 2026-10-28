@@ -1,4 +1,4 @@
-# Albemarle (albemarle)
+# Albemarle
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,63 +66,92 @@
 
 Albemarle Corporation is a global specialty chemicals company and leading provider of lithium, bromine, and other essential elements. Operating from its global headquarters in Charlotte, NC, Albemarle serves customers in approximately 70 countries with world-class hard-rock and brine lithium resources, state-of-the-art lithium conversion facilities, advanced lithium material and process development, bromine production facilities, and the US's only producing lithium resource in Silver Peak, NV. The company serves critical markets including electric vehicle batteries, energy storage, flame retardants, pharmaceutical ingredients, catalysts, and specialty chemicals, employing approximately 7,800 people and holding over 1,500 active patents worldwide.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/albemarle/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/albemarle/refs/heads/main/apis.yml)
+**Areas:** Chemicals · Lithium · Bromine · Energy Storage · Electric Vehicles · Specialty Chemicals · Pharmaceuticals · Sustainability · Materials Science · Manufacturing · Fortune 1000
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Albemarle on APIs.io
 
-## Tags:
+Everything profiled for Albemarle is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/albemarle/](https://apis.io/providers/albemarle/)** — or go straight to one of the APIs or properties below.
 
- - Chemicals, Lithium, Bromine, Energy Storage, Electric Vehicles, Specialty Chemicals, Pharmaceuticals, Sustainability, Materials Science, Manufacturing
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-23
-- **Modified:** 2026-04-19
+#### Security (1)
 
-## Common Properties
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Albemarle Domain Security](https://apis.io/security/albemarle/albemarle-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Albemarle Plans Pricing](https://apis.io/plans/albemarle/albemarle-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Albemarle Rate Limits](https://apis.io/rate-limits/albemarle/albemarle-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.albemarle.com)
-- [Portal](https://www.albemarle.com/us/en/what-we-offer)
-- [LinkedIn](https://www.linkedin.com/company/albemarle-corporation)
-- [TermsOfService](https://www.albemarle.com/us/en/legal)
-- [PrivacyPolicy](https://www.albemarle.com/us/en/privacy-policy)
-- [Contact](https://www.albemarle.com/us/en/contact-us)
+- [Blog](https://www.albemarle.com/news)
+- [Terms of service](https://www.albemarle.com/us/en/terms-use)
+- [Privacy policy](https://www.albemarle.com/us/en/privacy-policy)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Lithium Production | World-class hard-rock and brine lithium resources, including the US's only producing lithium resource at Silver Peak, NV, supporting battery materials for electric vehicles and energy storage. |
-| Bromine Specialty Chemicals | Bromine production and specialty chemical formulations for flame retardants, pharmaceuticals, agriculture, and water treatment applications. |
-| Energy Storage Materials | Advanced lithium materials and process development for battery-grade lithium hydroxide and carbonate serving energy storage and EV markets. |
-| Pharmaceutical Ingredients | Active pharmaceutical ingredients (API), organometallics, and specialty reagents for drug synthesis and nutritional chemistry. |
-| Sustainability Reporting | Annual sustainability reports tracking environmental footprint, resource management, and ESG metrics across global operations. |
-| Global Supply Chain | Geographic diversity across lithium and bromine production facilities providing reliable supply to customers in approximately 70 countries. |
+**Kin Score 10.0** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
 
-| Name | Description |
-|------|-------------|
-| Electric Vehicle Batteries | Lithium hydroxide and carbonate for cathode active materials in lithium-ion batteries powering passenger and commercial electric vehicles. |
-| Grid-Scale Energy Storage | Battery materials for stationary energy storage systems enabling grid reliability and renewable energy integration. |
-| Flame Retardants for Electronics | Bromine-based flame retardants providing fire safety for printed circuit boards, cables, and electronic enclosures. |
-| Pharmaceutical Synthesis | High-purity organometallics and specialty reagents supporting drug discovery and active pharmaceutical ingredient manufacturing. |
-| Industrial Catalysts | Catalyst solutions for petroleum refining and petrochemical processing using proprietary alumina and zeolite technologies. |
-| Water Treatment | Bromine-based biocides and disinfectants for industrial cooling water, recreational water, and municipal treatment applications. |
-| Oilfield Services | Clear brine fluids and specialty chemicals for completion, drilling, and workover operations in oil and gas production. |
+**Agent readiness 2.5** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Electric Vehicle OEMs | Direct material supply partnerships with automotive manufacturers and battery cell producers in the EV supply chain. |
-| Energy Storage Developers | Integration with grid-scale battery storage project developers and utilities for long-term lithium supply agreements. |
-| Pharmaceutical Manufacturers | Supply agreements with pharmaceutical companies for specialty reagents and active pharmaceutical ingredients. |
-| Electronics Manufacturers | Flame retardant chemical supply to PCB fabricators and electronics component manufacturers globally. |
-| Petroleum Refiners | Catalyst supply and technical service partnerships with refining and petrochemical customers worldwide. |
+**Regulatory alignment 11.5** — Energy & Utilities
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/albemarle/](https://apis.io/providers/albemarle/).
 
-**FN:** API Evangelist
+## How this profile is made
 
-**Email:** info@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Albemarle: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/albemarle/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
